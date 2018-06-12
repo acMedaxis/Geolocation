@@ -1,0 +1,218 @@
+[
+    [
+        "/Users/adamcimimo/dx/geolocation/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/adamcimimo/dx/geolocation/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1528819583351,
+            "changeTime": 1528819583351,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/adamcimimo/dx/geolocation/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/adamcimimo/dx/geolocation/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1528819588365,
+            "changeTime": 1528819588365,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/adamcimimo/dx/geolocation/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/adamcimimo/dx/geolocation/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1528823309603,
+            "changeTime": 1528823309603,
+            "contentHash": "3df8033f80e11fefd4a514d70989d592a62a1fec"
+        }
+    ],
+    [
+        "/Users/adamcimimo/dx/geolocation/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/adamcimimo/dx/geolocation/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1528819458628,
+            "changeTime": 1528819458628,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/adamcimimo/dx/geolocation",
+        {
+            "state": "n",
+            "sourcePath": "/Users/adamcimimo/dx/geolocation",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1528820695745,
+            "changeTime": 1528820695745,
+            "contentHash": "b12313919584842854d6b3ec7d3b56c30f769c53",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/adamcimimo/dx/geolocation/force-app/main/default/objects/Account/fields/location__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/adamcimimo/dx/geolocation/force-app/main/default/objects/Account/fields/location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 403,
+            "modifiedTime": 1528823309578,
+            "changeTime": 1528823309578,
+            "contentHash": "7a2ff9ed3e48126a956e8570aae300e1e3f7e33f"
+        }
+    ],
+    [
+        "/Users/adamcimimo/dx/geolocation/force-app/main/default/layouts/Account-Account (Marketing) Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/adamcimimo/dx/geolocation/force-app/main/default/layouts/Account-Account (Marketing) Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9756,
+            "modifiedTime": 1528823309588,
+            "changeTime": 1528823309588,
+            "contentHash": "23388d39ef86074bc4ace323b2ebdeb9cd6b4e71"
+        }
+    ],
+    [
+        "/Users/adamcimimo/dx/geolocation/force-app/main/default/layouts/Account-Account (Sales) Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/adamcimimo/dx/geolocation/force-app/main/default/layouts/Account-Account (Sales) Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9708,
+            "modifiedTime": 1528823309593,
+            "changeTime": 1528823309593,
+            "contentHash": "35afbbf848b6756c90b40e4745a957d69214ef1e"
+        }
+    ],
+    [
+        "/Users/adamcimimo/dx/geolocation/force-app/main/default/layouts/Account-Account (Support) Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/adamcimimo/dx/geolocation/force-app/main/default/layouts/Account-Account (Support) Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9756,
+            "modifiedTime": 1528823309599,
+            "changeTime": 1528823309599,
+            "contentHash": "af666b2950ba57e475e29ab22b90070f10089deb"
+        }
+    ],
+    [
+        "/Users/adamcimimo/dx/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/adamcimimo/dx/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9708,
+            "modifiedTime": 1528823309602,
+            "changeTime": 1528823309602,
+            "contentHash": "efbb3947d62c20bef135de5876abd0e8a2e997bc"
+        }
+    ],
+    [
+        "/Users/adamcimimo/dx/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/adamcimimo/dx/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 366,
+            "modifiedTime": 1528823309603,
+            "changeTime": 1528823309603,
+            "contentHash": "e759aa5282c2fa0500b93fba8073ffc0ff9ea514"
+        }
+    ],
+    [
+        "/Users/adamcimimo/dx/geolocation/force-app/main/default/objects/Account/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/adamcimimo/dx/geolocation/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1528823309578,
+            "changeTime": 1528823309578,
+            "contentHash": "66024b999a9cbbf64556dffcab012dadf08dc40f"
+        }
+    ],
+    [
+        "/Users/adamcimimo/dx/geolocation/force-app/main/default/objects/Account",
+        {
+            "state": "u",
+            "sourcePath": "/Users/adamcimimo/dx/geolocation/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1528823309577,
+            "changeTime": 1528823309577,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "/Users/adamcimimo/dx/geolocation/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/adamcimimo/dx/geolocation/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1528823309577,
+            "changeTime": 1528823309577,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "/Users/adamcimimo/dx/geolocation/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/adamcimimo/dx/geolocation/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1528823309602,
+            "changeTime": 1528823309602,
+            "contentHash": "be43ec218fd4b2701663c648b5cbe93e57e32129"
+        }
+    ],
+    [
+        "/Users/adamcimimo/dx/geolocation/force-app/main/default/permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/adamcimimo/dx/geolocation/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1528823309603,
+            "changeTime": 1528823309603,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+        }
+    ]
+]
